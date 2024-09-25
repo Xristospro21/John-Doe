@@ -18,7 +18,7 @@ Feel free to reach out if you'd like to collaborate or discuss new opportunities
 ----
 
 ### 📊 GitHub Stats:
-![XristosPro21](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![XristosPro21](https://github-readme-stats.vercel.app/api?username=XristosPro21&show_icons=true&theme=radical)
 
 ----
 
