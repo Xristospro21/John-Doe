@@ -41,5 +41,6 @@ I’m constantly expanding my knowledge in:
 - Advanced JavaScript frameworks
 - Performance optimization
 - **Currently working on my upcoming Tailwind component library**
+- **Currently working on Web-FullStack Projects**
 
 ----
