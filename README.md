@@ -8,19 +8,19 @@ Welcome to my GitHub profile! Here, you'll find:
 - 📝 Personal blogs, tutorials, and tips related to development
 - 🔧 Contributions to web development, backend systems, and more
 
----
+----
 
 ### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 Feel free to reach out if you'd like to collaborate or discuss new opportunities!
 
----
+----
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
+----
 
 ### 🛠️ Technologies I Work With:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +34,7 @@ Feel free to reach out if you'd like to collaborate or discuss new opportunities
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+----
 
 ### ⚔️ What I’m Learning:
 I’m constantly expanding my knowledge in:
@@ -42,4 +42,4 @@ I’m constantly expanding my knowledge in:
 - Performance optimization
 - **Currently working on my upcoming Tailwind component library**
 
----
+----
