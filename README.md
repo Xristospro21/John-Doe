@@ -18,7 +18,7 @@ Feel free to reach out if you'd like to collaborate or discuss new opportunities
 ----
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![XristosPro21](https://github-readme-stats.vercel.app/api?username=XristosPro21&show_icons=true&theme=radical)
 
 ----
 
@@ -41,5 +41,7 @@ I’m constantly expanding my knowledge in:
 - Advanced JavaScript frameworks
 - Performance optimization
 - **Currently working on my upcoming Tailwind component library**
+- **Currently working on Web-FullStack Projects**
+- **Currently working on my Soft-Skills
 
 ----
