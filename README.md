@@ -42,5 +42,6 @@ I’m constantly expanding my knowledge in:
 - Performance optimization
 - **Currently working on my upcoming Tailwind component library**
 - **Currently working on Web-FullStack Projects**
+- **Currently working on my Soft-Skills
 
 ----
